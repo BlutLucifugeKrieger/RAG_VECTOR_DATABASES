@@ -4,7 +4,7 @@ Hecho por Juan Camilo Castro Velasquez
 
 # PRIMER INCISO - API KEY DE OPENAI (REQUEST SENCILLA)
 
-![image](https://github.com/BlutLucifugeKrieger/RAG_VECTOR_DATABASES/assets/130005378/c13ca743-47ae-41d6-9bdc-2d52716ed6c4)
+![image](https://github.com/BlutLucifugeKrieger/RAG_VECTOR_DATABASES/assets/130005378/64176967-5475-47a5-8e6b-34068f8c0530)
 
 
 # SEGUNDO INCISO  - API KEY DE OPENAI (REQUEST CON AUTOR MAS PREGUNTA - URL)
@@ -14,4 +14,5 @@ Hecho por Juan Camilo Castro Velasquez
 
 # TERCER INCISO  - API KEY DE OPENAI MAS API KEY DE PINECONE(CREACION  DE INDEX EN DONDE PODER SUBIR ARCHIVOS CON INFORMACION) - TEMA DEL ARCHIVO (LA SEGUNDA GUERRA MUNDIAL)
 
-![image](https://github.com/BlutLucifugeKrieger/RAG_VECTOR_DATABASES/assets/130005378/35473292-25d8-46d8-b885-63fc268b0cc9)
+![image](https://github.com/BlutLucifugeKrieger/RAG_VECTOR_DATABASES/assets/130005378/044d44d3-529b-4a8d-ab2c-c7255ee7750b)
+
